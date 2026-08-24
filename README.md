@@ -27,4 +27,4 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-othman-532a91317/)
-- ✉️ [Email Me](mailto:Ibrahim.DevOps@proton.me)
+- ✉️ [Email Me](mailto:ibrahim.devops@proton.me)
