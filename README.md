@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ibrahim Othman!
 
 ### 👨‍💻 About Me
-- 🚀 Software Developer interested in web solutions and application development.
-- 🛠️ Currently building custom utility tools and full-stack projects.
-- 📚 Always learning new technologies and refining my codebase.
+- 🚀 Software & Web Developer focused on building clean, functional tools and applications.
+- 🛠️ Currently developing custom utility projects and full-stack solutions.
+- 📚 Continuously exploring new technologies and modern development workflows.
 
 ---
 
@@ -15,16 +15,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibra-dev-ops&show_icons=true&theme=radial)
+![Ibra-dev-ops's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibra-dev-ops&show_icons=true&theme=radial)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibra-dev-ops&layout=compact&theme=radial)
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-othman-532a91317/)
-- ✉️ [Email Me](mailto:ibrahim.devops@proton.me)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-othman-532a91317/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)](mailto:ibrahim.devops@proton.me)
+
+- 💼 **LinkedIn:** [ibrahim-othman](https://www.linkedin.com/in/ibrahim-othman-532a91317/)
+- ✉️ **Email:** [ibrahim.devops@proton.me](mailto:ibrahim.devops@proton.me)
