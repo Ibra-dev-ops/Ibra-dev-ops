@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats
 
-![Ibra-dev-ops's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibra-dev-ops&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibra-dev-ops&layout=compact&theme=radial)
+![Ibra-dev-ops GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibra-dev-ops&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibra-dev-ops&layout=compact&theme=dark&hide_border=true)
 
 ---
 
