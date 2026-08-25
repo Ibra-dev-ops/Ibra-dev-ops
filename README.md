@@ -9,6 +9,12 @@
   <a href="mailto:ibrahim.devops@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="ProtonMail" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibra-dev-ops&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ibra-dev-ops?style=for-the-badge&logo=github&color=22D3EE&labelColor=151E32" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ibra-dev-ops?style=for-the-badge&logo=github&color=0891B2&labelColor=151E32" alt="Stars" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -26,6 +32,7 @@
 | :--- | :--- | :--- |
 | 🌴 **[Safari Resort QR](https://github.com/Ibra-dev-ops/safari-resort-qr)** | Complete digital hospitality ordering & room-service PWA with multi-language & staff dashboard. | `JavaScript` `PWA` `Netlify` `Tailwind` |
 | 🏢 **[HR Assistant](https://github.com/Ibra-dev-ops/hr-assistant)** | Smart biometric attendance analyzer & reporting tool for HR management. | `Vue.js 3` `Tailwind CSS` `SheetJS` |
+| 📱 **[Streamex App](https://github.com/Ibra-dev-ops/streamex-app)** | Cross-platform mobile application with native integrations & EAS build support. | `React Native` `Expo` `JavaScript` |
 
 ---
 
@@ -49,21 +56,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ibra-dev-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibra-dev-ops&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ibra-dev-ops&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
