@@ -32,7 +32,6 @@
 | :--- | :--- | :--- |
 | 🌴 **[Safari Resort QR](https://github.com/Ibra-dev-ops/safari-resort-qr)** | Complete digital hospitality ordering & room-service PWA with multi-language & staff dashboard. | `JavaScript` `PWA` `Netlify` `Tailwind` |
 | 🏢 **[HR Assistant](https://github.com/Ibra-dev-ops/hr-assistant)** | Smart biometric attendance analyzer & reporting tool for HR management. | `Vue.js 3` `Tailwind CSS` `SheetJS` |
-| 📱 **[Streamex App](https://github.com/Ibra-dev-ops/streamex-app)** | Cross-platform mobile application with native integrations & EAS build support. | `React Native` `Expo` `JavaScript` |
 
 ---
 
