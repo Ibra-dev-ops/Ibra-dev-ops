@@ -27,7 +27,6 @@
 | 🌴 **[Safari Resort QR](https://github.com/Ibra-dev-ops/safari-resort-qr)** | Complete digital hospitality ordering & room-service PWA with multi-language & staff dashboard. | `JavaScript` `PWA` `Netlify` `Tailwind` |
 | 🏢 **[HR Assistant](https://github.com/Ibra-dev-ops/hr-assistant)** | Smart biometric attendance analyzer & reporting tool for HR management. | `Vue.js 3` `Tailwind CSS` `SheetJS` |
 
-
 ---
 
 ### 💻 Tech Stack & Tools
@@ -54,18 +53,18 @@
 ---
 
 ### 📊 GitHub Activity & Stats
+
 <div align="center">
-  <!-- GitHub Streak Stats (سيرفر ثابت ومستقر جداً) -->
   <img src="https://streak-stats.demolab.com?user=Ibra-dev-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  
-  <!-- Activity Graph (رسم بياني لنشاطك) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibra-dev-ops&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="49%" />
 </div>
+
 <br/>
+
 <div align="center">
-  <!-- Trophies (إنجازات وجوائز GitHub) -->
   <img src="https://github-profile-trophy.vercel.app/?username=Ibra-dev-ops&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
 </div>
+
 ---
 
 ### 📫 Connect with Me
