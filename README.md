@@ -54,12 +54,18 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibra-dev-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibra-dev-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <!-- GitHub Streak Stats (سيرفر ثابت ومستقر جداً) -->
+  <img src="https://streak-stats.demolab.com?user=Ibra-dev-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  
+  <!-- Activity Graph (رسم بياني لنشاطك) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibra-dev-ops&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="49%" />
 </div>
-
+<br/>
+<div align="center">
+  <!-- Trophies (إنجازات وجوائز GitHub) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ibra-dev-ops&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+</div>
 ---
 
 ### 📫 Connect with Me
