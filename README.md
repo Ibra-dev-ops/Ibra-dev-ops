@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-othman-532a91317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discordapp.com/users/580692416307265536"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:ibrahim.devops@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="ProtonMail" /></a>
 </p>
 
