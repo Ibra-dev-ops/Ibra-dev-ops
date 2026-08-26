@@ -1,7 +1,7 @@
 # 👨‍💻 Hi here, I'm Ibrahim
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Developer;DevOps+%26+Automation+Enthusiast;Building+Smart+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Developer;DevOps+%26+Automation;Cloud+%26+CI%2FCD+Expert" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -24,6 +24,19 @@
 - 📱 Developing cross-platform mobile apps with **React Native & Expo**.
 - ⚙️ Building smart automation tools, data analytics dashboards, and web solutions with **Vue.js, Tailwind CSS, and Python**.
 - 🛠️ Actively expanding my expertise in **DevOps workflows, CI/CD pipelines, and cloud deployment**.
+- 🌍 **Open to new opportunities** and collaborative projects! Let's build something amazing together.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibra-dev-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibra-dev-ops&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -31,7 +44,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🌴 **[Safari Resort QR](https://github.com/Ibra-dev-ops/safari-resort-qr)** | Complete digital hospitality ordering & room-service PWA with multi-language & staff dashboard. | `JavaScript` `PWA` `Netlify` `Tailwind` |
+| 🌴 **[Safari Resort QR](https://github.com/Ibra-dev-ops/safari-resort-qr)** | Complete digital hospitality ordering & room-service PWA with multi-language & staff dashboard. | `JavaScript` `PWA` `Vue.js` |
 | 🏢 **[HR Assistant](https://github.com/Ibra-dev-ops/hr-assistant)** | Smart biometric attendance analyzer & reporting tool for HR management. | `Vue.js 3` `Tailwind CSS` `SheetJS` |
 
 ---
@@ -59,7 +72,43 @@
 
 ---
 
+### 🗣️ Languages
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-0891B2?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent-00A4EF?style=for-the-badge)
+![Somali](https://img.shields.io/badge/Somali-Fluent-13B0F5?style=for-the-badge)
+
+---
+
+### 🎓 Certifications & Achievements
+
+- 🏆 **Full-Stack Developer** - Hands-on experience in building end-to-end applications
+- 🏆 **DevOps & Automation Specialist** - Proficient in CI/CD pipelines and deployment automation
+- 🏆 **Mobile App Developer** - Cross-platform development with React Native & Expo
+- 🏆 **Problem Solver** - Passionate about writing clean, efficient, and maintainable code
+
+---
+
+### 💬 Let's Connect!
+
+I'm always interested in:
+- 🤝 Collaborating on innovative projects
+- 💼 Full-stack and DevOps opportunities
+- 📚 Learning new technologies and best practices
+- 🌐 Building solutions that make a real impact
+
+<p align="center">
+  <strong>Feel free to reach out - I'd love to hear from you!</strong>
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Ibrahim Othman](https://www.linkedin.com/in/ibrahim-othman-532a91317/)
 - ✉️ **Email:** [ibrahim.devops@proton.me](mailto:ibrahim.devops@proton.me)
+- 💬 **Discord:** [Ibra-dev-ops](https://discordapp.com/users/580692416307265536)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love" />
+</div>
