@@ -75,8 +75,8 @@
 ### 🗣️ Languages
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native-0891B2?style=for-the-badge)
+![Somali](https://img.shields.io/badge/Somali-Native-13B0F5?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Fluent-00A4EF?style=for-the-badge)
-![Somali](https://img.shields.io/badge/Somali-Fluent-13B0F5?style=for-the-badge)
 
 ---
 
