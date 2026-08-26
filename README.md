@@ -1,4 +1,4 @@
-# 👨‍💻 Ibrahim Othman (Ibra-dev-ops)
+# 👨‍💻 Hi here, I'm Ibrahim
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Developer;DevOps+%26+Automation+Enthusiast;Building+Smart+Digital+Solutions" alt="Typing SVG" />
