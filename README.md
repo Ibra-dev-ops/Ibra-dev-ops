@@ -80,15 +80,6 @@
 
 ---
 
-### 🎓 Certifications & Achievements
-
-- 🏆 **Full-Stack Developer** - Hands-on experience in building end-to-end applications
-- 🏆 **DevOps & Automation Specialist** - Proficient in CI/CD pipelines and deployment automation
-- 🏆 **Mobile App Developer** - Cross-platform development with React Native & Expo
-- 🏆 **Problem Solver** - Passionate about writing clean, efficient, and maintainable code
-
----
-
 ### 💬 Let's Connect!
 
 I'm always interested in:
@@ -107,8 +98,3 @@ I'm always interested in:
 
 - 💼 **LinkedIn:** [Ibrahim Othman](https://www.linkedin.com/in/ibrahim-othman-532a91317/)
 - ✉️ **Email:** [ibrahim.devops@proton.me](mailto:ibrahim.devops@proton.me)
-- 💬 **Discord:** [Ibra-dev-ops](https://discordapp.com/users/580692416307265536)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love" />
-</div>
